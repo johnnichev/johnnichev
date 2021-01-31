@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicherus" alt="nicherus" /></a> </p>
 
-- 🔭 I’m currently working on [GAMBETTO CHESS](https://github.com/Nicherus/GAMBETTOCHESS-API)
+- 🔭 I’m currently working on [GAMBETTO CHESS](https://github.com/Nicherus/GAMBETTOCHESS-API)and improving my github repositories docs, deploy and readme.md
 
 - 🌱 I’m currently learning **Next.js and AWS tools**
 
