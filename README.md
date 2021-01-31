@@ -25,6 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicherus&show_icons=true&locale=en&layout=compact" alt="nicherus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicherus&show_icons=true&locale=en" alt="nicherus" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicherus&" alt="nicherus" /></p>
