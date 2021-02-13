@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [GAMBETTO CHESS](https://github.com/Nicherus/GAMBETTOCHESS-API) and improving my github repositories docs, deploy and readme.md
 
-- 🌱 I’m currently learning **Next.js and AWS tools**
+- 🌱 I’m currently learning **NEST and AWS tools**
 
 - 💬 Ask me about **Node.js, React and React Native**
 
