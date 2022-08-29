@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicherus" alt="nicherus" /></a> </p>
 
-- 🌱 I’m currently learning **NEST and AWS tools**
-
 - 💬 Ask me about **Node.js, React and Laravel*
 
 - 📫 How to reach me **joaonichev@gmail.com**
