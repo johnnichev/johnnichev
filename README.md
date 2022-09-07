@@ -1,6 +1,6 @@
 <h3 align="center">Passionate developer with no fear of changes who always seeks to evolve learning new technologies.</h3>
 
-- 💬 Ask me about **Node.js, React and Laravel*
+- 💬 Ask me about *Node.js, React and Laravel*
 
 - 📫 How to reach me **joaonichev@gmail.com**
 
