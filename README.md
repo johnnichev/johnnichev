@@ -17,8 +17,3 @@ Senior Web & AI Engineer with 10+ years building scalable software and ML-powere
 ## 📫 Reach Me
 - [LinkedIn](https://www.linkedin.com/in/johnniche/)  
 - Email: johnnichev@gmail.com
-
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnnichev&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnichev&layout=compact)
