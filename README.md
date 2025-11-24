@@ -20,5 +20,5 @@ Senior Web & AI Engineer with 10+ years building scalable software and ML-powere
 
 
 ## 📊 GitHub Stats
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnniche&show_icons=true&theme=default&hide_rank=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnniche&layout=compact&hide_progress=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnnichev&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnichev&layout=compact)
