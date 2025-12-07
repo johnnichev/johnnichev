@@ -1,6 +1,5 @@
-# 👋 Hi, I'm John Niche
-
-Senior Web & AI Engineer with 10+ years building scalable software and ML-powered systems across startups and enterprise. I specialize in full-stack development and applied AI—especially LLMs, RAG pipelines, search, and recommendation engines.
+Senior Web & AI Engineer with 10+ years building scalable software and ML-powered systems across startups and enterprise. 
+I specialize in full-stack development and applied AI—especially LLMs, RAG pipelines, search, and recommendation engines.
 
 ## 🧠 Areas of Focus
 - Full-Stack Engineering (React, Next.js, Node.js, TypeScript)
