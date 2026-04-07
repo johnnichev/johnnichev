@@ -1,6 +1,6 @@
 # John Nichev
 
-Founder of [NichevLabs](https://nichevlabs.com). Senior ML Engineer with 10+ years building scalable systems and ML infrastructure across startups and enterprise.
+Senior ML Engineer with 10+ years building scalable systems and ML infrastructure across startups and enterprise.
 
 I build production-grade tools that make AI work reliably in real codebases, not demos.
 
@@ -43,7 +43,6 @@ Production-ready Python framework for AI agents with built-in guardrails, audit 
 
 ## Reach me
 
-- [nichevlabs.com](https://nichevlabs.com)
 - [skills.nichevlabs.com](https://skills.nichevlabs.com)
 - [@johnnichev on X](https://twitter.com/johnnichev)
 
